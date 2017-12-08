@@ -1,4 +1,5 @@
 # Product Name
+LBB02 (La Borne à Bonnaud)
 
 ## Product Conception
 
@@ -11,12 +12,16 @@
 
 ### What is the purpose/concept of the product ?
 > Describes what is the purpose of your product ? If there are similar/comercial solutions that exists ? 
+Building an original bartop runining on emulation station (potentially more than 15000 games!)
 
 ### What is the Area of application ?
 > Describes who could be the inteded user (ex: programer), or who is able to use it (ex : someone aged between 7-77)
+Gamers from 5 to 95 years old
 
 ### Who are the makers on this projet ?
 > List all the people implicated in the conception of this product.
+@Jorgininho (desing, conception, manufacturing)
+@nicodb (Manufacturing)
 
 ### Principle of conception
 > What skills did you used to produce the model of your prototype ? (3D modelling, ...) If theorical reflexionn was needed, please inform your reflexion (ex: mathematical reflexion with result used). If you have these reflexions on a specific file please add it to the folder and list it in the table here under.
