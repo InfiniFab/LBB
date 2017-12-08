@@ -25,7 +25,8 @@ Manufacturing / Machining | Specific technical files | Template for a list of th
 Assembly | Specific technical filesOr Text document (manual) | Template for a list of the technical files used, each files shall be tagged.Therefore a list of tags shall be proposed with the catalog template.For Text documentation, a template to present:- The material needed - The competences (taaags!!)- A template step (number/description/results)
 Test & Validation | Text & Images | A template document to present the final product for helping the sharing of it
 
+
 ## How to document
 
-The goal might be to fork this template to then follow the instruction in the readme file in the folders "conception" & "manufacturing"
+Clone this repository then follow the information to be filed in Product summary.md file
 
